@@ -1,0 +1,7 @@
+{
+  "name": "Wildfly Swarm JAX-RS Example",
+  "description": "An example app running a servlet with JBoss Wildfly Swarm using JAX-RS.",
+  "website": "http://wildfly.org",
+  "addons": [],
+  "success_url": "/"
+}
