@@ -8,7 +8,7 @@ on Heroku using JAX-RS. Click this button to deploy it:
 Or follow these steps to deploy with Maven:
 
 ```sh-session
-$ git clone
+$ git clone https://github.com/kissaten/wildfly-example-jaxrs
 $ heroku create
 $ mvn package heroku:deploy -Dheroku.appName=<appName>
 ```
@@ -16,7 +16,7 @@ $ mvn package heroku:deploy -Dheroku.appName=<appName>
 Or follow these steps to deploy with Git.
 
 ```sh-session
-$ git clone
+$ git clone https://github.com/kissaten/wildfly-example-jaxrs
 $ heroku create
 $ git push heroku master
 ```
